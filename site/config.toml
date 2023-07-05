@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://ai-selfies.com/"
+baseURL = "https://resilient-salmiakki-1d4289.netlify.app/"
 languageCode = "en"
 title = "AI Selfies"
 theme = "hargo-hugo"
