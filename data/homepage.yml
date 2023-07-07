@@ -1,0 +1,125 @@
+############################ banner ##########################
+banner:
+  enable : true
+  title : "50 AI Selfies of yourself"
+  content : "Get jaw-dropping selfies starting at $9.99! Let AI-Selfies.com transform your photos into stunning, professional-quality selfies with cutting-edge artificial intelligence algorithms."
+  image : "images/aiselfie/00041.png"
+  # button
+  button:
+    enable : true
+    label : "All Variations"
+    link : "products/"
+  # demo video
+  video:
+    enable : true
+    videoURL : "https://www.youtube.com/embed/PiB5OHcvT04"
+
+########################## About ##############################
+about:
+  enable : true
+  title : "About Our Product"
+  content : "Choose from seven unique packages, including business, gangster, and caricature, and enjoy fast turnaround and a money-back guarantee. Upload your photos now and see yourself in a whole new light!"
+  image : "images/aiselfie/00430-2206444121.png"
+
+
+###################### Call to action ########################
+cta:
+  enable : true
+  title : "Buy 3 Get 1 Free"
+  content : "Available for limited time only. Grab one while you still can!"
+  image : "images/nobackground.png"
+  overlayImage : "images/cta-overlay.png"
+  button:
+    label : "All Products"
+    link : "products/"
+
+######################## raw material #######################
+material:
+  enable : true
+  title : "Our themes"
+  subtitle : "Transform yourself into different AI selfie scenarios"
+  materialItem:
+    # material item loop
+    - title : "Business"
+      image : "images/aiselfie/00635-1554298675.png"
+      content : "Lorem ipsum dolor sit amet,be consetetur sadipscing elitr, sed diam nonumy eirmod tem"
+      
+    # material item loop
+    - title : "Caricature"
+      image : "images/aiselfie/00600-1847422492.png"
+      content : "Lorem ipsum dolor sit amet,be consetetur sadipscing elitr, sed diam nonumy eirmod tem"
+      
+    # material item loop
+    - title : "Gangster"
+      image : "images/aiselfie/00412-369470285.png"
+      content : "Lorem ipsum dolor sit amet,be consetetur sadipscing elitr, sed diam nonumy eirmod tem"
+      
+    # material item loop
+    - title : "Neon Glow"
+      image : "images/aiselfie/00391-2529081060.png"
+      content : "Lorem ipsum dolor sit amet,be consetetur sadipscing elitr, sed diam nonumy eirmod tem"
+
+########################### Advantage #########################
+advantage:
+  enable : true
+  title : "Use cases for our AI Selfies"
+  subtitle : "A unique gift for your loved ones"
+  image : "images/aiselfie/00025.png"
+  advantageList:
+    # advantage list loop
+    - listItem : "Christmas postcards"
+    - listItem : "Valentines Day Surprise"
+    - listItem : "Family Portraits"
+    - listItem : "Halloween Costumes"
+    - listItem : "Business Profiles"
+    - listItem : "Unique customizations"
+
+
+######################## Promo Video ##########################
+video:
+  enable : true
+  title : "How To Use This Product?"
+  content : "It couldn't be easier! Choose a theme or submit your own, and we'll do the rest. After 4-5 hours you will receive your images in your postbox!"
+  videoThumb : "images/aiselfie/00020.png"
+  videoURL : "https://www.youtube.com/embed/PiB5OHcvT04"
+
+
+######################## Products #############################
+products:
+  enable : true
+  title : "Products List"
+  # product item comes from "content/products"
+
+
+########################## Testimonial ########################
+testimonial:
+  enable : true
+  title : "What People Are Saying <br> About Our Product"
+  testimonialItem:
+    # testimonial item loop
+    - name : "Angelo"
+      image : "images/clients/client-1.jpg" # size 100px*100px
+      designation : ""
+      content : "I can't believe how realistic and stunning the AI-generated selfies are on this website! Whether I want to see how I'd look as a classic movie star or as a futuristic cyborg, this platform delivers incredible results every time. It's like having a personal photo studio at my fingertips. Highly recommended!"
+      rating : "five" # rating star, one to five
+      
+    # testimonial item loop
+    - name : "Sandra"
+      image : "images/clients/client-2.jpg" # size 100px*100px
+      designation : ""
+      content : "This website is a game-changer! I've always wondered how I'd look with different hairstyles and makeup, and now I can see it for myself. The AI-generated selfies are mind-blowing in their accuracy and attention to detail. It's so much fun to experiment with different themes and transform into a whole new persona. Prepare to be amazed!"
+      rating : "four" # rating star, one to five
+      
+    # testimonial item loop
+    - name : "Stef"
+      image : "images/clients/client-3.jpg" # size 100px*100px
+      designation : ""
+      content : "I'm completely hooked on this AI selfie generator! The level of customization is impressive, allowing me to choose from various themes like historical figures, fantasy creatures, or even space explorers. The generated selfies seamlessly blend my facial features with the chosen theme, creating jaw-dropping results. It's addictive, creative, and an absolute blast!"
+      rating : "five" # rating star, one to five
+      
+    # testimonial item loop
+    - name : "Priya"
+      image : "images/clients/client-2.jpg" # size 100px*100px
+      designation : ""
+      content : "I recently tried the Gangster theme on this AI selfie website, and I must say, it was an absolute blast! As a fan of vintage crime films, I couldn't resist the opportunity to see myself transformed into a stylish gangster straight out of the roaring '20s"
+      rating : "five" # rating star, one to five

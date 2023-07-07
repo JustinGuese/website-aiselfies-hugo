@@ -1,0 +1,39 @@
+backend:
+  name: git-gateway
+  branch: main
+
+publish_mode: editorial_workflow
+media_folder: "site/static/images/uploads"
+public_folder: "/images/uploads"
+
+collections:
+  - name: "blog" # Used in routes, e.g., /admin/collections/blog
+    label: "Blog" # Used in the UI
+    folder: "site/content/blog" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Featured Image", name: "image", widget: "image"}
+      - {label: "Draft", name: "draft", widget: "boolean"}
+      - {label: "Description", name: "description", widget: "string"}
+      - {label: "Author", name: "author", widget: "string", default: "Dean"}
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+
+  - name: "products"
+    label: "products" # Used in the UI
+    folder: "site/content/products" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Draft", name: "draft", widget: "boolean", default: false}
+      - {label: "Description", name: "description", widget: "string"}
+      - {label: "Price", name: "price", widget: "string"}
+      - {label: "priceBefore", name: "priceBefore", widget: "string"}
+      - {label: "shortDescription", name: "shortDescription", widget: "string"}
+      - {label: "productID", name: "productID", widget: "string"}
+      - {label: "type", name: "type", widget: "string", default : "products"}
+      - { label: 'Body', name: 'body', widget: 'markdown' }
