@@ -5,32 +5,28 @@ draft: false
 description : "this is a meta description"
 ---
 
-### Terms and Condition
+# Allgemeine Geschäftsbedingungen (AGB) für den Webshop der Künstlichen Intelligenz-Fotogenerierung
 
-Please read this terms and conditions stated below, which outline a lot of legal goodies, but the bottom line is it’s our aim to always take care of both of us, as a customer, or as a seller. We’ve included many of these terms to legally protect ourselves, but if you have an issue, always feel free to email us at contact@themefisher.com and we’ll do our best to resolve it in a fair and timely way .
+## Geltungsbereich
 
-### Product Buy & delivery policy
-
-1)All payments are processed securely through PayPal or Stripe. Themefisher does not directly process payments through the website. So any kind of Problem if you face Themefisher will Not Take any responsibility.
-
-### Product Buy & delivery policy
-
-Please read this terms and conditions stated below, which outline a lot of legal goodies, but the bottom line is it’s our aim to always take care of both of us, as a customer, or as a seller. We’ve included many of these terms to legally protect ourselves, but if you have an issue, always feel free to email us at contact@themefisher.com and we’ll do our best to resolve it in a fair and timely way .
-
-### Refund Policy
-
-1) Since Themefisher is offering non-tangible and irrevocable digital products, we do NOT issue refunds after a purchase is made. If there is a problem with one of the digital download products or if you experience any difficulty with the download, we will fix the problem.
-2) You have 24 hours to inspect your purchase and to determine if it does not meet with the expectations laid forth by The Themefisher. In the event that you wish to receive a refund, Themefisher will issue you a refund and ask you to specify how the product failed to live up to expectations.
-3) When you make a qualifying return, We’ll credit the full amount, less the handling charges. Refunds are generally processed within 3–5 business days after we receive your claim and find it eligible for a return. Refunds are applied to the original payment option.
-
-### Support Policy
-1) Since Themefisher is offering non-tangible and irrevocable digital products, we do NOT issue refunds after a purchase is made. If there is a problem with one of the digital download products or if you experience any difficulty with the download, we will fix the problem.
-2) You have 24 hours to inspect your purchase and to determine if it does not meet with the expectations laid forth by The Themefisher. In the event that you wish to receive a refund, Themefisher will issue you a refund and ask you to specify how the product failed to live up to expectations.
-3) When you make a qualifying return, We’ll credit the full amount, less the handling charges. Refunds are generally processed within 3–5 business days after we receive your claim and find it eligible for a return. Refunds are applied to the original payment option.
-
-### Why We Support:
-
-1. Support covers getting up and help in theme setup
-2. Help using features and theme options
-3. Bug fixes – if you discovered a bug in the theme/Template we will fix it
-4. Functionality which does not work as advertised
+1.1. Diese Allgemeinen Geschäftsbedingungen (AGB) gelten für sämtliche Rechtsgeschäfte zwischen dem Webshop (im Folgenden "Anbieter" genannt) und seinen Kunden (im Folgenden "Nutzer" genannt), die den Service der AI-Fotogenerierung in Anspruch nehmen.
+1.2. Der Anbieter erbringt seine Leistungen ausschließlich auf Grundlage dieser AGB. Entgegenstehende oder abweichende Bedingungen des Nutzers werden nicht Vertragsbestandteil, es sei denn, der Anbieter stimmt ihrer Geltung ausdrücklich schriftlich zu.
+Leistungen
+2.1. Der Anbieter stellt dem Nutzer die Möglichkeit zur Verfügung, Bilder hochzuladen, um mittels Künstlicher Intelligenz Fotomaterial zu generieren.
+2.2. Der Anbieter gewährleistet, dass sämtliche hochgeladenen Bilder nach der Verarbeitung gelöscht werden.
+2.3. Die Erstellung der generierten Bilder kann je nach Komplexität und Umfang 2-8 Stunden in Anspruch nehmen. Der Nutzer wird über den Abschluss der Verarbeitung informiert.
+Urheberrecht und Nutzungsrechte
+3.1. Der Nutzer garantiert dem Anbieter, dass er über sämtliche erforderlichen Rechte an den hochgeladenen Bildern verfügt und dass die Verarbeitung und Nutzung dieser Bilder durch den Anbieter nicht gegen geltendes Recht oder Rechte Dritter verstößt.
+3.2. Durch das Hochladen der Bilder erteilt der Nutzer dem Anbieter ein einfaches, zeitlich und räumlich unbeschränktes Nutzungsrecht an den hochgeladenen Bildern zum Zwecke der Fotogenerierung. Der Anbieter ist berechtigt, die generierten Bilder zu speichern, zu nutzen und zu veröffentlichen, jedoch nicht zu kommerziellen Zwecken.
+3.3. Der Nutzer behält alle Rechte an den Originalbildern und den generierten Bildern, die durch den Anbieter erstellt wurden.
+Haftungsausschluss
+4.1. Der Anbieter übernimmt keine Gewährleistung für die Richtigkeit, Vollständigkeit oder Aktualität der generierten Bilder.
+4.2. Der Anbieter haftet nicht für Schäden, die durch die Nutzung des Services entstehen, es sei denn, sie beruhen auf Vorsatz oder grober Fahrlässigkeit des Anbieters.
+4.3. Der Anbieter haftet nicht für etwaige technische Störungen, die außerhalb seines Einflussbereichs liegen, wie beispielsweise Serverausfälle oder Verbindungsprobleme.
+Datenschutz
+5.1. Der Anbieter verpflichtet sich, die gesetzlichen Bestimmungen zum Datenschutz einzuhalten. Die Datenschutzerklärung des Anbieters ist Bestandteil dieser AGB.
+5.2. Der Anbieter löscht die hochgeladenen Bilder nach der Verarbeitung und speichert keine personenbezogenen Daten der Nutzer ohne deren ausdrückliche Einwilligung.
+Schlussbestimmungen
+6.1. Es gilt das Recht der Bundesrepublik Deutschland unter Ausschluss des UN-Kaufrechts.
+6.2. Erfüllungsort und ausschließlicher Gerichtsstand für alle Streitigkeiten aus oder im Zusammenhang mit diesen AGB ist der Sitz des Anbieters, sofern der Nutzer Kaufmann, juristische Person des öffentlichen Rechts oder öffentlich-rechtliches Sondervermögen ist.
+6.3. Sollten einzelne Bestimmungen dieser AGB unwirksam oder undurchführbar sein oder werden, berührt dies die Wirksamkeit der übrigen Bestimmungen nicht. Anstelle der unwirksamen oder undurchführbaren Bestimmungen tritt eine Regelung, die dem wirtschaftlichen Zweck der unwirksamen oder undurchführbaren Bestimmungen möglichst nahekommt.

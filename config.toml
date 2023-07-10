@@ -111,9 +111,6 @@ home = "Home"
 description = "This is meta description"
 author = "DataFortress.cloud"
 # google map
-gmapAPI = ""
-mapLatitude = "51.5223477"
-mapLongitude = "-0.1622023"
 mapMarker = "images/marker.png"
 # Google Analitycs
 googleAnalyticsID = "" # Your ID
@@ -136,8 +133,8 @@ currencySymbol = "€"
   # it works with https://rating-widget.com/ , you will get the ID and publicKey after creating your account there.
   [params.rating]
   enable = true
-  websiteID = "444334"
-  publicKey = "811cf0927332bf51f2e12f84608594ac"
+  websiteID = "492446"
+  publicKey = "5410b66292c6df3a78d4ebdb1fd22f7b"
 
   # Social Site
   [[params.social]]
@@ -162,4 +159,4 @@ currencySymbol = "€"
 
   # Contact Form
   [params.contact]
-  formAction = "#" # contact form works with formspree.io
+  formAction = "https://formspree.io/f/mknvkdpr" # contact form works with formspree.io
