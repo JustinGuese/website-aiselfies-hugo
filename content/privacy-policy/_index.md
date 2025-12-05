@@ -1,12 +1,11 @@
 ---
-title: "Privacy Policy"
+title: 'Privacy Policy'
 date: 2019-10-17T11:22:16+06:00
 draft: false
-description : "this is a meta description"
+description: 'this is a meta description'
 ---
 
 # Privacy Policy
-
 
 We are very delighted that you have shown interest in our enterprise. Data protection is of a particularly high priority for the management of the DataFortress.cloud. The use of the Internet pages of the DataFortress.cloud is possible without any indication of personal data; however, if a data subject wants to use special enterprise services via our website, processing of personal data could become necessary. If the processing of personal data is necessary and there is no statutory basis for such processing, we generally obtain consent from the data subject.
 
@@ -41,24 +40,24 @@ k) Consent Consent of the data subject is any freely given, specific, informed a
 
 Name and Address of the controller Controller for the purposes of the General Data Protection Regulation (GDPR), other data protection laws applicable in Member states of the European Union and other provisions related to data protection is:
 
-DataFortress.cloud UG
-Georgenstraße 13
-86152 Augsburg
+DataFortress.cloud GmbH
+Gewerbestraße 13
+82064 Straßlach-Dingharting
 Germany
 DE345185498
 
-HRB 36456 
+HRB 36456
 
 Email: info@datafortress.cloud Website: https://www.datafotress.cloud
 
 Cookies
 The Internet pages of the DataFortress.cloud use cookies. Cookies are text files that are stored in a computer system via an Internet browser.
 
-Cookie	Description	Duration	Type
-_ga	This cookie is installed by Google Analytics. The cookie is used to calculate visitor, session, campaign data and keep track of site usage for the site’s analytics report. The cookies store information anonymously and assign a randomly generated number to identify unique visitors.	2 years	Analytics
-_gid	This cookie is installed by Google Analytics. The cookie is used to store information of how visitors use a website and helps in creating an analytics report of how the wbsite is doing. The data collected including the number visitors, the source where they have come from, and the pages viisted in an anonymous form.	1 day	Analytics
-_gat	This cookies is installed by Google Universal Analytics to throttle the request rate to limit the colllection of data on high traffic sites.	1 minute	Performance
-CookieScriptConsent	Needed to track cookie choice	1 day	Performance
+Cookie Description Duration Type
+\_ga This cookie is installed by Google Analytics. The cookie is used to calculate visitor, session, campaign data and keep track of site usage for the site’s analytics report. The cookies store information anonymously and assign a randomly generated number to identify unique visitors. 2 years Analytics
+\_gid This cookie is installed by Google Analytics. The cookie is used to store information of how visitors use a website and helps in creating an analytics report of how the wbsite is doing. The data collected including the number visitors, the source where they have come from, and the pages viisted in an anonymous form. 1 day Analytics
+\_gat This cookies is installed by Google Universal Analytics to throttle the request rate to limit the colllection of data on high traffic sites. 1 minute Performance
+CookieScriptConsent Needed to track cookie choice 1 day Performance
 Many Internet sites and servers use cookies. Many cookies contain a so-called cookie ID. A cookie ID is a unique identifier of the cookie. It consists of a character string through which Internet pages and servers can be assigned to the specific Internet browser in which the cookie was stored. This allows visited Internet sites and servers to differentiate the individual browser of the dats subject from other Internet browsers that contain other cookies. A specific Internet browser can be recognized and identified using the unique cookie ID.
 
 Through the use of cookies, the DataFortress.cloud can provide the users of this website with more user-friendly services that would not be possible without the cookie setting.
@@ -164,7 +163,7 @@ Further information and the actual data protection provisions of Amazon may be r
 Data protection provisions about the application and use of Google Analytics (with anonymization function) On this website, the controller has integrated the component of Google Analytics (with the anonymizer function). Google Analytics is a web analytics service. Web analytics is the collection, gathering, and analysis of data about the behavior of visitors to websites. A web analysis service collects, inter alia, data about the website from which a person has come (the so-called referrer), which sub-pages were visited, or how often and for what duration a sub-page was viewed. Web analytics are mainly used for the optimization of a website and in order to carry out a cost-benefit analysis of Internet advertising.
 The operator of the Google Analytics component is Google Ireland Limited, Gordon House, Barrow Street, Dublin, D04 E5W5, Ireland.
 
-For the web analytics through Google Analytics the controller uses the application “_gat. _anonymizeIp”. By means of this application the IP address of the Internet connection of the data subject is abridged by Google and anonymised when accessing our websites from a Member State of the European Union or another Contracting State to the Agreement on the European Economic Area.
+For the web analytics through Google Analytics the controller uses the application “\_gat. \_anonymizeIp”. By means of this application the IP address of the Internet connection of the data subject is abridged by Google and anonymised when accessing our websites from a Member State of the European Union or another Contracting State to the Agreement on the European Economic Area.
 
 The purpose of the Google Analytics component is to analyze the traffic on our website. Google uses the collected data and information, inter alia, to evaluate the use of our website and to provide online reports, which show the activities on our websites, and to provide other services concerning the use of our Internet site for us.
 
